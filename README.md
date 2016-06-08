@@ -1,5 +1,7 @@
 # Swagger Codegen - Play Scala
 
+[![Join the chat at https://gitter.im/mohiva/swagger-codegen-play-scala](https://badges.gitter.im/mohiva/swagger-codegen-play-scala.svg)](https://gitter.im/mohiva/swagger-codegen-play-scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A code generator for [Swagger] which generates API clients with the help of the PlayWS library. This code generator is based on the `akka-scala` generator included in the [Swagger Codegen] distribution.
 
 ## Create client
